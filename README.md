@@ -20,16 +20,19 @@
 `Vue.js` `React` `Next.js` `Angular` `Tailwind` `Bootstrap` `Quasar` `React Native` `Expo`
 
 ### ⚙ Backend  
-`Spring Boot` `NestJS` `.NET` `RESTful API` `Keycloak`
+`Spring Boot` `NestJS` `.NET` `RESTful API` `WebSocket (Socket.IO)` `JWT` `Keycloak` `Cron Job`
 
 ### 🗃️ Database & ORM  
-`PostgreSQL` `SQL Server` `Oracle` `Prisma` `Stored Procedures` `Views`
+`PostgreSQL` `SQL Server` `Oracle` `Prisma ORM` `Redis` `Stored Procedures` `Views`
 
 ### 🚀 DevOps & Tools  
 `Docker` `Jenkins` `Kubernetes (K8s)` `Git` `Postman` `Swagger`
 
 ### 📊 Reporting & Testing  
-`JasperReports` `Freemarker` `Jest` `K6 (Load Testing)`
+`JasperReports` `Freemarker` `Jest (Unit Testing)` `K6 (Load Testing)`
+
+### 📋 Project/Task Management  
+`Jira` `Trello`
 
 ---
 
@@ -60,15 +63,6 @@ Mae Fah Luang University – 2018
 
 - 🇹🇭 Thai (Native)  
 - 🇺🇸 English (B1 Level)
-
----
-
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nuttakit-pathumthipsiri&show_icons=true&theme=tokyonight" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nuttakit-pathumthipsiri&layout=compact&theme=tokyonight" height="160" />
-</p>
 
 ---
 
