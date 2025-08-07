@@ -53,6 +53,7 @@
   - Toggle between mock data and live API using `.env` configuration
   - Written in TypeScript with modular React components and Tailwind styling
   - Fast development workflow with Vite
+- **Live Demo**: [react-pokemon-card-ten.vercel.app](https://react-pokemon-card-ten.vercel.app/)
 
 ---
 
