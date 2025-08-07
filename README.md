@@ -36,6 +36,26 @@
 
 ---
 
+## 🛠️ Side Projects	
+
+### [Go Gin GORM Backend](https://github.com/nuttakit-pathumthipsiri/go-gin-gorm-backend)
+- **Tech Stack**: Go, Gin, GORM, SQL Server, Docker, Swagger, Make
+- **Description**: A RESTful API backend for managing topics and topic details with a clean architecture. It supports a nested data structure and provides Swagger UI for API documentation.
+- **Highlights**:
+  - Uses Docker and SQL Server for a development environment similar to Azure SQL
+  - Auto-generates Swagger documentation using `make run dev`
+  - Clean project structure (service, router, handler, repository) for scalability and maintainability
+
+### [React Pokémon Card Market](https://github.com/nuttakit-pathumthipsiri/react-pokemon-card)
+- **Tech Stack**: React, TypeScript, Tailwind CSS, Vite, Pokémon TCG API
+- **Description**: A responsive web app for browsing and searching Pokémon cards. Designed with performance and flexibility in mind, it supports both mock data and real API integration.
+- **Highlights**:
+  - Toggle between mock data and live API using `.env` configuration
+  - Written in TypeScript with modular React components and Tailwind styling
+  - Fast development workflow with Vite
+
+---
+
 ## 💼 Work Experience
 
 ### 🔹 Software Engineer (Full Stack), TQD Co., Ltd.  
