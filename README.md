@@ -53,9 +53,9 @@
   - Toggle between mock data and live API using `.env` configuration
   - Written in TypeScript with modular React components and Tailwind styling
   - Fast development workflow with Vite
-- **Live Demo**: [react-pokemon-card-ten.vercel.app](https://react-pokemon-card-ten.vercel.app/)
+- **Live Demo**: [react-pokemon-card-ten.vercel.app](https://react-pokemon-card-ten.vercel.app)
 
-### [Disaster Alert System]([https://github.com/nuttakit-pathumthipsiri/react-pokemon-card](https://github.com/nuttakit-pathumthipsiri/disaster-alert-system)
+### [Disaster Alert System](https://github.com/nuttakit-pathumthipsiri/disaster-alert-system)
 - **Tech Stack**: .NET 8.0, ASP.NET Core, Entity Framework Core, C#, SQL Server, Redis, Docker, Docker Compose, SendGrid, WeatherAPI, USGS Earthquake API
 - **Description**: A disaster alert and risk assessment platform that delivers real-time alerts for weather and natural disasters. Built with clean architecture principles, supporting multi-region notifications and advanced risk evaluation.
 - **Highlights**:
