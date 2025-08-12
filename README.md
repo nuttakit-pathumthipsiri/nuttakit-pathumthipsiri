@@ -55,6 +55,16 @@
   - Fast development workflow with Vite
 - **Live Demo**: [react-pokemon-card-ten.vercel.app](https://react-pokemon-card-ten.vercel.app/)
 
+### Disaster Alert System### [Disaster Alert System]([https://github.com/nuttakit-pathumthipsiri/react-pokemon-card](https://github.com/nuttakit-pathumthipsiri/disaster-alert-system)
+- **Tech Stack**: .NET 8.0, ASP.NET Core, Entity Framework Core, C#, SQL Server, Redis, Docker, Docker Compose, SendGrid, WeatherAPI, USGS Earthquake API
+- **Description**: A disaster alert and risk assessment platform that delivers real-time alerts for weather and natural disasters. Built with clean architecture principles, supporting multi-region notifications and advanced risk evaluation.
+- **Highlights**:
+  - Real-time disaster alerts with weather data and risk analysis
+  - Multi-region support for geographically targeted notifications
+  - Email alerts via SendGrid integration
+  - High-performance caching with Redis
+  - Well-structured clean architecture for maintainability
+
 ---
 
 ## 💼 Work Experience
