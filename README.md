@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="mailto:nuttakit.pathumthipsiri@gmail.com">📧 Email</a> • 
-  <a href="https://github.com/nuttakit-pathumthipsiri">💻 GitHub</a>
+  <a href="https://github.com/nuttakit-pathumthipsiri">💻 GitHub</a> • 
   <a href="https://www.linkedin.com/in/nuttakit-pathumthipsiri-a2b39a2b3/">🔗 LinkedIn</a>
 </p>
 
