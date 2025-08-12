@@ -68,36 +68,6 @@
 
 ---
 
-## 💼 Work Experience
-
-### 🔹 Software Engineer (Full Stack), TQD Co., Ltd.  
-📆 May 2024 – Jul 2025  
-
-### 🔹 Front-End Developer, Krungthai  
-📆 May 2022 – Apr 2024  
-
-### 🔹 Software Developer → Senior, Soft Square International  
-📆 Jun 2018 – Apr 2022   
-
-### 🔹 Internship, SoftInter Chiangrai  
-📆 Jan 2018 – Apr 2018  
-
----
-
-## 🎓 Education
-
-**Bachelor of Science in Software Engineering**  
-Mae Fah Luang University – 2018
-
----
-
-## 🌐 Languages
-
-- 🇹🇭 Thai (Native)  
-- 🇺🇸 English (B1 Level)
-
----
-
 ## 🙌 Thanks for visiting!
 
 > “Delivering scalable, secure, and maintainable applications is not just a job – it's my craft.”
